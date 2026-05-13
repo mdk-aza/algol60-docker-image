@@ -13,6 +13,8 @@ where:
 
 The docker image can be found [here](https://hub.docker.com/r/rzuckerm/algol60).
 
+以下から、実行手順について記載します。
+
 単純なALGOL60のみだと、標準入出力が弱いため、拡張のMarstを使用
 
 #初回のみ
